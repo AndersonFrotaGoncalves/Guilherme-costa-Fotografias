@@ -1,32 +1,34 @@
-# Guilherme Costa · Fotografia esportiva
+# Guilherme Costa · Sports photography
 
-Site para um fotógrafo de esporte de base (futsal e futebol): galeria das fotos dele, serviços e pedido de orçamento pelo WhatsApp.
+Website for a youth sports photographer (futsal and football): a gallery of his photos, services and quote requests through WhatsApp.
 
-🔗 **Site:** [guilhermecostafotogrgafia.netlify.app](https://guilhermecostafotogrgafia.netlify.app)
+🔗 **Website:** [guilhermecostafotogrgafia.netlify.app](https://guilhermecostafotogrgafia.netlify.app)
 
-![Site](docs/site.png)
+> The website itself is in Portuguese, because it is made for local clients.
 
-## O que tem
+![Website](docs/site.png)
 
-- **Hero com a melhor foto** e chamada direta para o WhatsApp
-- **Galeria em colunas** que respeita o formato de cada foto, com **visualização em tela cheia**: setas do teclado, deslizar no telemóvel e Esc para fechar
-- **Serviços** (jogos e campeonatos, atletas, equipes), cada um com uma mensagem de WhatsApp já preenchida
-- **Como funciona** em 3 passos, sobre e contato
+## Features
 
-## Versão 2 (o que mudou)
+- **Hero with his best photo** and a direct call to action to WhatsApp
+- **Masonry gallery** that keeps each photo's shape, with a **full-screen viewer**: arrow keys, swipe on mobile and Esc to close
+- **Services** (matches and tournaments, athletes, teams), each with a pre-filled WhatsApp message
+- **How it works** in 3 steps, about and contact
 
-- O site passou a mostrar o trabalho real do fotógrafo (esporte de base). As fotos de banco de imagens e os serviços que ele não fotografa saíram
-- **Fotos otimizadas:** de até 4160 px e 2 MB cada para 1800 px (≈250 KB) e miniaturas de 720 px, carregadas só quando aparecem no ecrã
-- Identidade visual inspirada no piso da quadra (azul e laranja), tipografia condensada de desporto
-- Assinatura do fotógrafo com fundo transparente, para usar sobre qualquer cor
-- SEO e partilha: descrição, imagem de pré-visualização (Open Graph), textos alternativos em todas as fotos
-- Acessibilidade: navegação por teclado, foco visível, link para saltar para a galeria, respeito por `prefers-reduced-motion`
-- Menos dependências: saíram ScrollReveal, Swiper, Remix Icon e Boxicons. O JavaScript ficou só com a galeria
+## Version 2 (what changed)
 
-## Tecnologias
+- The site now shows the photographer's real work (youth sports). Stock photos and services he doesn't offer were removed
+- **Optimized photos:** from up to 4160 px and 2 MB each to 1800 px (≈250 KB), plus 720 px thumbnails that only load when they appear on screen
+- Visual identity inspired by the court floor (blue and orange), with condensed sports typography
+- Photographer's signature with a transparent background, to use on any color
+- SEO and sharing: description, preview image (Open Graph), alt text on every photo
+- Accessibility: keyboard navigation, visible focus, skip link to the gallery, `prefers-reduced-motion` support
+- Fewer dependencies: removed ScrollReveal, Swiper, Remix Icon and Boxicons. JavaScript is now only used for the gallery
+
+## Tech stack
 
 HTML · CSS · JavaScript · Netlify
 
-## Autor
+## Author
 
-Site desenvolvido por **Anderson Frota** · [andersonfrota.netlify.app](https://andersonfrota.netlify.app) · [LinkedIn](https://www.linkedin.com/in/andersongfrota)
+Website by **Anderson Frota** · [andersonfrota.netlify.app](https://andersonfrota.netlify.app) · [LinkedIn](https://www.linkedin.com/in/andersongfrota)
